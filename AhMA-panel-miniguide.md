@@ -1,6 +1,6 @@
 # A small guide to web hosting services and resources
 
-This compilation of mostly connected web hosting related mini-guides and essays was made as an example for the Othercon 2025 panel “Under The HoodTM \#Therian Mutual Aid”
+This compilation of mostly web hosting related mini-guides and essays was made as an example for the Othercon 2025 panel “Under The HoodTM \#Therian Mutual Aid”
 
 # Web Hosting
 
