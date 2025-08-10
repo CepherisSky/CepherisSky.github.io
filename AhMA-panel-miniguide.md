@@ -21,6 +21,7 @@ Both of these are small independent web hosting sites which are able to offer a 
 ### [Github](https://github.com/)
 
 I’ve seen Github mentioned a couple times, usually with the caveat that it’s fairly robust and capable with its many supported file types and collaborator and version control capabilities, but also pretty intimidating and difficult for new users.  After learning it in my research for this panel… That is completely true.  However, that difficulty mostly seems to come from its complicated and feature rich user interface, so if you’re willing to take a moment and learn which buttons do what, it's not actually that bad.
+Just like how we have Neocities and Nekoweb which are very similar, there are some alternatives to Gitbut, namely Gitlab and Bitbucket.  I'm not making a full section on them since it would be mostly a copy paste of this one, but I did want to mention them.
 
 # You have a website\!...  Now what?
 
