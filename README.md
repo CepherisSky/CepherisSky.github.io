@@ -4,4 +4,4 @@
 
 ### By Puppy and Veyhr
 
-![Vy](/VySoup.png)
+![Vy](VySoup.jpg)
