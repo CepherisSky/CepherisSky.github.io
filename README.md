@@ -4,5 +4,4 @@
 
 ### By Puppy and Veyhr
 
-<img src="bowtie1.png">
-<img src="VySoup.jpg">
+![Vy](VySoup.png)
