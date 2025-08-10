@@ -2,7 +2,7 @@
 
 # The making of AlterhumanMutualAid
 
-### By ~Puppy~ and Veyhr
+### By Puppy and Veyhr
 
-![Puppy](/assets/images/bowtie1.png)
-![Vy](/assets/images/VySoup.jpg)
+![Puppy](/main/images/bowtie1.png)
+![Vy](/main/images/VySoup.jpg)
