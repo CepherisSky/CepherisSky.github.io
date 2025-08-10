@@ -1,8 +1,8 @@
-# Under The HoodTM
+# Under The Hood<sup>TM</sup>
 
 # The making of AlterhumanMutualAid
 
 ### By Puppy and Veyhr
 
-![Puppy](/main/images/bowtie1.png)
-![Vy](/main/images/VySoup.jpg)
+![Puppy](bowtie1.png)
+![Vy](VySoup.jpg)
