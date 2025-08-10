@@ -3,5 +3,3 @@
 # The making of AlterhumanMutualAid
 
 ### By Puppy and Veyhr
-
-![Vy](VySoup.jpg)
