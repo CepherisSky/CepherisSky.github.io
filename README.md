@@ -4,4 +4,4 @@
 
 ## By Puppy and Veyhr
 
-[](/assets/images/bowtie1.png)[](/assets/images/VySoup.jpg)
+[](https://assets/images/bowtie1.png)[](https://assets/images/VySoup.jpg)
