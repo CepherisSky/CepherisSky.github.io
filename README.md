@@ -8,4 +8,5 @@ Hello this is an example
 
 **Wow this is bold**
 
-![vy](VySoup)
+![vy](VySoup.jpg)
+![Puppy](https://www.barkbarklington.com/bowtie1.png)
