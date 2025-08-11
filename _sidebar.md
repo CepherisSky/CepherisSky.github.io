@@ -2,3 +2,4 @@
 - [AhMA Panel Miniguides](AhMA-panel-miniguide)
 - [Cool Page](Whatever)
 - [Unknown](second-page)
+- [Puppy](puppy.md)
